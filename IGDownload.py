@@ -23,7 +23,7 @@ def getimages(username, userid, cursor=''):
         'accept-language': "en-US,en;q=0.9",
         'cache-control': "no-cache",
         'pragma': "no-cache",
-        'referer': "https://www.instagram.com/bgray2421/",
+        'referer': "https://www.instagram.com/",
         'sec-fetch-dest': "empty",
         'sec-fetch-mode': "cors",
         'sec-fetch-site': "same-origin",
